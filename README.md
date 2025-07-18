@@ -7,7 +7,7 @@ this is a autofarm for Prospecting on roblox
 ---**Requierments**
 
 
--have the sliver pan and reinforced shovel
+-atleast have the sliver pan and reinforced shovel
 
 -AutoHotyKey Application
 
