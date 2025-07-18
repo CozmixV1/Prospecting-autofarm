@@ -17,10 +17,13 @@ this is a autofarm for Prospecting on roblox
 
 ---**how to use**
 
+-download the AHK script file in the github
+
+-run the script
 
 -go to one of the beaches 
 
--stand a bit away from the edge of the beach and hold out your pan
+-stand a bit away from the edge of the water and hold out your pan
 
 -press F6 to run the script 
 
