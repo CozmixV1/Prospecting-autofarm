@@ -4,7 +4,7 @@ this is a autofarm for Prospecting on roblox
 
 
 
----Requierments
+---**Requierments**
 
 
 -have the sliver pan and reinforced shovel
@@ -14,7 +14,7 @@ this is a autofarm for Prospecting on roblox
 
 
 
----how to use
+---**how to use**
 
 
 -go to one of the beaches 
