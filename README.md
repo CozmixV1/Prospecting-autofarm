@@ -1,7 +1,16 @@
 this is a autofarm for Prospecting on roblox 
+
+
+
+
+
 ---Requierments
 -have the sliver pan and reinforced shovel
 -AutoHotyKey Application
+
+
+
+
 
 ---how to use
 -go to one of the beaches 
