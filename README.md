@@ -7,7 +7,6 @@ this is a autofarm for Prospecting on roblox
 ---**Requierments**
 
 
--atleast have the sliver pan and reinforced shovel
 
 -AutoHotyKey Application
 
@@ -25,6 +24,9 @@ this is a autofarm for Prospecting on roblox
 
 -stand a bit away from the edge of the water and hold out your pan
 
--press F6 to run the script 
+-press start to run the script it will start a 5 seconds countdown before it actually starts 
 
--to close script- close the Autohotkey aplication from task manager
+-to close script press exit
+-to stoop script press stop
+
+-you can customize the amout of time you need to shake and digg for in the script settings
