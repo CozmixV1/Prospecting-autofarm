@@ -8,7 +8,7 @@ this is a autofarm for Prospecting on roblox
 
 
 
--AutoHotyKey Application
+-AutoHotKey Application
 
 
 
