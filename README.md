@@ -1,7 +1,7 @@
 this is a autofarm for Prospecting on roblox 
 
 
-
+-too get script go to realease tab on the right
 
 
 ---**Requierments**
